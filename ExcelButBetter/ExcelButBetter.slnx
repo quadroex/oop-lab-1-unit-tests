@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="ExcelButBetter.Core/ExcelButBetter.Core.csproj" Id="26c256de-110d-4aca-828a-34c170488951" />
+  <Project Path="ExcelButBetter.Tests/ExcelButBetter.Tests.csproj" Id="9be77387-454b-4f8d-8050-e76cf4c50769" />
+  <Project Path="ExcelButBetter/ExcelButBetter.csproj" />
+</Solution>
